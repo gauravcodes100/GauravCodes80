@@ -1,4 +1,4 @@
-##gauravcodes80 👋
+<strong>GauravCodes80 👋</strong>
 
 <b>
 * 🌱 I’m currently learning Machine Learning concepts.<br>
